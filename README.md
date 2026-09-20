@@ -25,7 +25,7 @@
 │                    PRATIKOS SYSTEM MONITOR                   │
 ├──────────────────────────────────────────────────────────────┤
 │ Identity       : Pratik Dagar                                │
-│ Specialization : Cybersecurity, AI, IoT, Product Development  │
+│ Specialization : Cybersecurity, AI, IoT, Product Development │
 │ Current Mode   : BUILDING                                    │
 │ Security Level : DEFENSIVE RESEARCH                          │
 │ Hardware Layer : Raspberry Pi · ESP32 · Sensors · Cameras    │
